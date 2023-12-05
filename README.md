@@ -10,7 +10,7 @@ still needs to be fixed in terms of server side stuff (on site and on the client
 - gamemaker 8.1 thing says that there's "Http Dll 2.3" missing:
 1. download the contents from the http dll folder and put it into something like: "windows disc/users/yourusername/appdata/local/gamemaker8.1/extensions" (there could be a .gex extension, but i am too lazy to find it /shrug )
 - gamemaker studio cannot compile server/client due to outdated functions: feel free to fix them, if you want to
-- something magical happened, your downloads were stolen by aliens: go sleep pls 🙏
+- something magical happened: issues exist
 - bricks don't load properly (a 2017 workshop unexpected bug): known bug, i guess? you may need to try to yeet the 2017 brick loading and change it into the current legacy one
   
 ### credits:
